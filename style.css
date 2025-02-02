@@ -1,14 +1,11 @@
 body{
     background-color: rgb(18, 156, 181);
     font-family: Arial, Helvetica, sans-serif;
-}
-h1{
-    font-size: 2rem;
-    color: yellow;
     text-align: center;
+    color:#fff;
 }
-p{
-    text-align: center;
-    font-size: 2rem;
-    color:#fff
+
+a{
+    text-decoration: none;
+    color: black;
 }
